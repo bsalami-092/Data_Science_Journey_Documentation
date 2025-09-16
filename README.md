@@ -1,0 +1,1 @@
+This repository captures what I learned during my internship at AppClick Academy. After earning my Mathematics degree, I kept asking what comes next. Cybersecurity didn’t give me clarity, but reflecting on why I studied math did. I realized it was all about making informed decisions and it lead me to this path.
